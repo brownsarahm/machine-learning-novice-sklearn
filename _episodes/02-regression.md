@@ -195,7 +195,7 @@ process_life_expectancy_data("../data/gapminder-life-expectancy.csv",
 {: .python}
 
 
-> # Modelling Life Expectancy
+> ## Modelling Life Expectancy
 >
 > Combine all the code above into a single Python file, save it into a directory called code. 
 >
